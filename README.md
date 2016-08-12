@@ -2,8 +2,6 @@
 Laravel + Angularjs + Bootstrap + AdminLTE binded by Gulp workflow Admin Dashboard Boilerplate.
 Plus Oauth and JWT authentication on the side.
 
-[![wercker status](https://app.wercker.com/status/92444e926f721c992f7f41c605d5cbc4/m "wercker status")](https://app.wercker.com/project/bykey/92444e926f721c992f7f41c605d5cbc4)
-
 ## Screenshots
 ![Dashboard Screenshot](https://cloud.githubusercontent.com/assets/1888261/14597104/53b404b6-057d-11e6-876d-c83630686590.png)
 
